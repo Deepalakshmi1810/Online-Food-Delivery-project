@@ -15,7 +15,7 @@ This project analyzes online food delivery data to understand order patterns, cu
 - Pandas
 - MySQL
 - Power BI
-- Jupyter Notebook
+- coolab Notebook
 
 ## Key Insights
 - Total orders analyzed: 100,000.
